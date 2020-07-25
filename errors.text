@@ -1,0 +1,8 @@
+W291 trailing whitespace : it is the extra space or tab at the end of line.
+E101 indentation contains mixed spaces and tabs : use spaces onlyy.
+W191 indentation contains tabs : use spaces.
+E302 expected 2 blank lines : Add two lines before writing new function.
+E203 whitespace before : remove white space before ':'
+E303 too many blank lines : Two blank lines are expected between functions and classes and one blank line is expected between methods
+of a class.
+W293 blank line contains whitespace: remove the sapces.
